@@ -1,10 +1,8 @@
 # Anjali
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
-### <div align="center">I'm Rishav, Anjali   An aspiring Full stack Web Developer</div>  
+### <div align="center">I'm  Anjali,   An aspiring Full stack Web Developer</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
